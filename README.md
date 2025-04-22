@@ -1,2 +1,2 @@
 # hello-word
-init
+测试
